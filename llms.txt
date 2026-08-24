@@ -1,0 +1,33 @@
+# [PHANIX TECH](https://phanixtech.online/)
+> Premium Full-Stack Web Development, 3D Web Apps, AI Workflows & Mobile Solutions Studio in Tamil Nadu, India.
+
+## About PHANIX TECH
+[PHANIX TECH](https://phanixtech.online/) is a high-performance software and digital engineering studio based in Tamil Nadu, India. We build modern websites, 3D interactive web applications, custom AI chatbots, workflow automations, and mobile apps.
+
+## Key Sections & Resources
+- [Home Page](https://phanixtech.online/#hero)
+- [About Us](https://phanixtech.online/#about)
+- [Services](https://phanixtech.online/#services)
+- [Portfolio Showcase](https://phanixtech.online/#portfolio)
+- [Tech Stack](https://phanixtech.online/#tech-stack)
+- [Development Process](https://phanixtech.online/#process)
+- [Industries Served](https://phanixtech.online/#industries)
+- [Pricing Plans](https://phanixtech.online/#pricing)
+- [Careers & Internships](https://phanixtech.online/#careers)
+- [FAQ](https://phanixtech.online/#faq)
+- [Contact Us](https://phanixtech.online/#contact)
+
+## Services Offered
+- **Web Design & Development**: High-converting websites built with HTML5, CSS3, JavaScript, GSAP motion, and Three.js 3D WebGL.
+- **AI Automation & AI Chatbots**: Custom AI assistants powered by OpenAI API, n8n automated workflows, and CRM integrations.
+- **Mobile App Development**: Cross-platform iOS & Android mobile applications built using Flutter & React Native.
+- **UI/UX & Interactive Prototyping**: Pixel-perfect Figma design systems, motion wireframes, and digital brand identities.
+
+## Contact Information
+- **Website**: [https://phanixtech.online/](https://phanixtech.online/)
+- **Phone / WhatsApp**: [+91 6381534316](https://wa.me/916381534316)
+- **Email**: [phanixtech@gmail.com](mailto:phanixtech@gmail.com)
+- **Instagram**: [https://instagram.com/phanix_tech](https://instagram.com/phanix_tech)
+- **LinkedIn**: [http://www.linkedin.com/in/phanix-tech](http://www.linkedin.com/in/phanix-tech)
+- **GitHub**: [https://github.com/phanixtech](https://github.com/phanixtech)
+- **Location**: Tamil Nadu, India
